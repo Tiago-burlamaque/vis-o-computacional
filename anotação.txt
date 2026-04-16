@@ -1,0 +1,3 @@
+fazer um: python -m venv .venv
+depois fazer: pip install opencv-python
+
